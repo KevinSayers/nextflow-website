@@ -106,12 +106,6 @@ pygmentsOptions = "linenos=table"
 
 [[menu.main]]
     parent = "Docs"
-    name = "Quick start"
-    url = "/quickstart"
-    weight = 1
-
-[[menu.main]]
-    parent = "Docs"
     name = "Reference"
     url = "https://www.nextflow.io/docs/latest/index.html"
     weight = 1
